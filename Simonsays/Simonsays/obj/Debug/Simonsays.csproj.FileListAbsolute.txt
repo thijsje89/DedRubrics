@@ -1,0 +1,10 @@
+C:\Users\thijs\source\repos\Simonsays\Simonsays\obj\Debug\Simonsays.csprojResolveAssemblyReference.cache
+C:\Users\thijs\source\repos\Simonsays\Simonsays\obj\Debug\Simonsays.Form1.resources
+C:\Users\thijs\source\repos\Simonsays\Simonsays\obj\Debug\Simonsays.Properties.Resources.resources
+C:\Users\thijs\source\repos\Simonsays\Simonsays\obj\Debug\Simonsays.csproj.GenerateResource.Cache
+C:\Users\thijs\source\repos\Simonsays\Simonsays\obj\Debug\Simonsays.csproj.CoreCompileInputs.cache
+C:\Users\thijs\source\repos\Simonsays\Simonsays\bin\Debug\Simonsays.exe.config
+C:\Users\thijs\source\repos\Simonsays\Simonsays\bin\Debug\Simonsays.exe
+C:\Users\thijs\source\repos\Simonsays\Simonsays\bin\Debug\Simonsays.pdb
+C:\Users\thijs\source\repos\Simonsays\Simonsays\obj\Debug\Simonsays.exe
+C:\Users\thijs\source\repos\Simonsays\Simonsays\obj\Debug\Simonsays.pdb
